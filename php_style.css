@@ -1,0 +1,6 @@
+p.errorbangla_1 ,p.errorenglish_1,p.errorMathematics,p.errorBiology,p.errorChemistry,p.errorIslam_Science {
+    color: rebeccapurple !important;
+}
+p.errorbangla_2,.errorenglish_2,.errorHigher_Math,.errorPhysic,.errorSocial_Science {
+    color: #0c766c;
+}

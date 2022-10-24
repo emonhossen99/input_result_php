@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+
+.loginForm {
+    width: 800px;
+    margin: auto;
+    background: #e2dde7;
+    text-align: center;
+    padding: 50px 70px;
+}
+.loginForm input{
+    border: none;
+    width: 200px;
+    padding: 4px 0px;
+}
+
+.submitButton{
+    border-radius: 4px;
+    background-color: #39ffff;
+    font-weight: bold;
+    color: black;
+    padding: 11px 29px !important;
+}
+
+.phpForm{
+    width: 800px;
+    background: #ebdede;
+    margin: auto;
+    padding: 50px 73px;
+    text-align: center;
+    font-size: 26px;
+    box-shadow: #9f9f9f 10px 10px 10px 0;
+}
+.title{
+    border-bottom: 2px solid
+}
+
+
+
+
